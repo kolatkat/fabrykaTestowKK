@@ -12,7 +12,7 @@
   "maxSession": 10,
   "register": true,
   "registerCycle": 5000,
-  "hub": "http://192.168.1.11:4444",
+  "hub": "http://ip:4444",
   "nodeStatusCheckTimeout": 5000,
   "nodePolling": 5000,
   "role": "node",
